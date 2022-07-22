@@ -1,8 +1,8 @@
 {
   "name": "GPSD Client",
-  "hacs": "0.0.1",
+  "hacs": "1.26.2",
   "domains": [
       "sensor"
   ],
-  "homeassistant": "2021.9.0"
+  "homeassistant": "2022.7.6"
 }
